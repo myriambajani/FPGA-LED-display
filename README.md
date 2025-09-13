@@ -29,7 +29,7 @@ The design was built in structural Verilog, simulated in Quartus, and implemente
 - **[code/ssd.v](./code/ssd.v)** – Structural Verilog code for the seven-segment LED driver.
 - **figures/**
   - **[waveform.png](./figures/waveform.png)** – Final simulation waveform results showing correct segment outputs for digits 0–9.
-  - **[truth_table.png](./figures/truth_table.png)** – Character set design table with 4-bit codes mapped to the seven-segment LED display.
+  - **[character_set.png](./figures/character_set.png)** – Character set design table mapping 4-bit input codes to their seven-segment LED display representations.
 
 ## Tools & Technologies
 - Verilog 
