@@ -25,7 +25,7 @@ The design was built in structural Verilog, simulated in Quartus, and implemente
 - Transistor count reduced significantly after technology mapping.
 - Message displays clearly on the FPGA board, conveying a positive note for Beirut.
 
-## Files
+## Repo Structure
 - **[code/ssd.v](./code/ssd.v)** – Structural Verilog code for the seven-segment LED driver.
 - **figures/**
   - **[waveform.png](./figures/waveform.png)** – Final simulation waveform results showing correct segment outputs for digits 0–9.
